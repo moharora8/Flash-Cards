@@ -89,8 +89,6 @@ Thanks [@eyedol](https://github.com/eyedol)
 
 ## How to run it on local host (Quick Guide)
 
-*Provided by [@devyash](https://github.com/devyash) - devyashsanghai@gmail.com - Reach out to this contributor if you have trouble.*
-
 1. Install dependencies:
   1. Install [Python ](https://www.python.org/download/releases/2.7/)
   2. Add python as environment variable [windows](http://stackoverflow.com/questions/3701646/how-to-add-to-the-pythonpath-in-windows-7)
@@ -165,12 +163,6 @@ heroku container:push web --app your-app-name
 heroku container:release web --app your-app-name
 heroku open --app your-app-name
 ```
-
-## Alternative for Node fans
-
-[@ashwanikumar04](https://github.com/ashwanikumar04) put together an alternative flash cards site running Node: https://github.com/ashwanikumar04/flash-cards
-
-Check out the demo!
 
 *Happy learning!*
 
