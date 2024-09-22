@@ -24,10 +24,6 @@ It uses:
 
 ---
 
-## About the Site
-
-Here's a brief rundown: https://startupnextdoor.com/flash-cards-site-complete/
-
 ## Screenshots
 
 UI for listing cards. From here you can add and edit cards.
@@ -63,8 +59,6 @@ Please make your own set, and while you’re making them, only make cards for wh
 If you don't want to run a server, you can simply use Anki or a similar service/app. Use this script to convert from my sets (SQLite .db file), or yours, to CSV:
 
 https://github.com/eyedol/tools/blob/master/anki_data_builder.py
-
-Thanks [@eyedol](https://github.com/eyedol)
 
 ## How to run it on a server
 
